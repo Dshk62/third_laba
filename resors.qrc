@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/photo_2024-06-28_16-17-02 (2).jpg</file>
+        <file>img/photo_2024-06-28_16-17-02 (3).jpg</file>
+        <file>img/photo_2024-06-28_16-17-02.jpg</file>
+    </qresource>
+</RCC>
